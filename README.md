@@ -1,4 +1,4 @@
-# GameMakerAnimationCurveExamples
+# GameMaker Animation Curve Examples
 
 Animation curves have a ton of uses!
 I've provided 2 examples so far of how I have used animation curves in other projects:
